@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "aloe Verra",
+      "price": 20.5,
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "name": "brioche",
+      "price": 2.5,
+      "quantity": 100
+    },
+    {
+      "id": 3,
+      "name": "lustucru",
+      "price": 3,
+      "quantity": 45
+    },
+    {
+      "id": 4,
+      "name": "samsung s9",
+      "price": 795,
+      "quantity": 50
+    },
+    {
+      "id": 5,
+      "name": "Gucci",
+      "price": 2000,
+      "quantity": 5
+    },
+    {
+      "name": "Nescafee",
+      "price": 20,
+      "quantity": 5,
+      "id": 6
+    },
+    {
+      "name": "Nescafe",
+      "price": 20,
+      "quantity": 5,
+      "id": 7
+    },
+    {
+      "name": "Coca cola",
+      "price": 2,
+      "quantity": 3,
+      "id": 8
+    }
+  ]
+}
